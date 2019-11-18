@@ -1,1 +1,1 @@
-web gunicorn server:app
+Procfile  conda-requirements.txt  numbercrunch.py
